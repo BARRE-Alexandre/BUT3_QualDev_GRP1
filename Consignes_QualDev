@@ -1,0 +1,18 @@
+1) créer un projet JAVA "Robot".
+2) créer une classe Robot/Grille
+3) initialiser la grille x:nblignes ; y:nbcolonnes
+4) placer votre robot sur une case de votre grille
+5) déplacer votre robot de 1case en 1case dans les 4 directions
+Vérifier que le déplacement est autorisé
+6) tester unit
+7) commit/push
+
+Le code doit etre SOLID
+
+Infos supplémentaires :
+
+Environ 3classes
+On aura Grille avec nblignes et nbcolonnes
+Case avec x:entier et y:entier relié à Grille
+Robot peut se déplacer sur Case et est relié à Direction
+Direction à haut-bas-gauche-droite
